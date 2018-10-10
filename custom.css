@@ -1,0 +1,8 @@
+.output_png {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+.reveal section pre code {
+    font-size: 0.5em !important;
+}
